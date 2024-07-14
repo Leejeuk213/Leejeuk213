@@ -19,4 +19,15 @@ Here are some ideas to get you started:
 
 --- 
 
+### 취득 자격증
 
+
+* 2023.10.15 SQLD
+* 2024.6.18 정보처리기사
+
+---
+
+### 대외활동
+
+* 2023.7.01 ~ 2023.8.28 LG Aimers 3기  
+* 2024.6.24 ~ 2024.8.31 CJ Cloudwave 3기 
