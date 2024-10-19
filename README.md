@@ -31,4 +31,10 @@ Here are some ideas to get you started:
 ### 대외활동
 
 * 2023.7.01 ~ 2023.8.28 LG Aimers 3기  
-* 2024.6.24 ~ 2024.8.31 CJ Cloudwave 3기 
+* 2024.6.24 ~ 2024.8.31 CJ Cloudwave 3기
+
+--- 
+
+### 개발 블로그
+
+https://dlwpdnr213.tistory.com/
