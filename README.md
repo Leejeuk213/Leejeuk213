@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 
 * 2023.10.15 SQLD
 * 2024.6.18 정보처리기사
-* 2024.9.30 AWS-SAA(Solutions Architect Associate)    
+* 2024.9.30 AWS-SAA(Solutions Architect Associate)
+* 2024.12.05 CKA(Certified Kubernetes Administrator)
 
 ---
 
