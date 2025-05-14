@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 * 2024.6.18 정보처리기사
 * 2024.9.30 AWS-SAA(Solutions Architect Associate)
 * 2024.12.05 CKA(Certified Kubernetes Administrator)
+* 2025.05.14 RHCSA(Redhat Certified System Administrator)  
 
 ---
 
